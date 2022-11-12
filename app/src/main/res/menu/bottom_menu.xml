@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Breeds"
+        android:icon="@drawable/dog_breed_icon"
+        android:id="@+id/breedsFragment"/>
+    <item android:title="Favourites"
+        android:id="@+id/favouritesFragment"
+        android:icon="@drawable/ic_baseline_favorite_24"/>
+    <item android:title="Training"
+        android:id="@+id/trainingFragment"
+        android:icon="@drawable/training_icon"/>
+</menu>
